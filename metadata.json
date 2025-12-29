@@ -1,0 +1,5 @@
+{
+  "name": "NanoGen Batch & Edit",
+  "description": "A powerful image tool using Gemini 2.5 Flash Image (Nano Banana) to batch generate images from prompts and edit existing images with natural language.",
+  "requestFramePermissions": []
+}
